@@ -15,7 +15,7 @@ To better persuade stakeholders to invest in our business, we look to answer the
 
 ## Results
 
-### Tableau Dashboard: [link to dashboard](https://public.tableau.com/app/profile/maher6211/viz/Module-15-Challenge/CheckoutTimesforUsers)
+### Tableau Dashboard: [link to dashboard](https://public.tableau.com/app/profile/maher6211/viz/Module-15-Challenge/NYCCitiBikeStory?publish=yes)
 <br>
 <hr>
 The following image visualizes the amount of bikes checked out and the trip duration of riders. As shown, most riders spend anywhere from a few minutes to 20-25 on the bike, with the most bikes used for about 4-7 minutes.
